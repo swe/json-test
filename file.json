@@ -1,1388 +1,1388 @@
 [
-{
-      "title":"Abbaye Notre-Dame de Sénanque",
-      "coordinate":"43.928164, 5.1868385",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Adler",
-      "coordinate":"43.425392, 39.923699",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Aix-en-Provence",
-      "coordinate":"43.52984, 5.4474812",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Amman",
-      "coordinate":"31.951565, 35.923945",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Amsterdam",
-      "coordinate":"52.372761, 4.8936158",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Antwerpen",
-      "coordinate":"51.221122, 4.3997031",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Aqaba",
-      "coordinate":"29.526701, 35.007831",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Åre",
-      "coordinate":"63.39904, 13.0815",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Arjeplog",
-      "coordinate":"66.051761, 17.891688",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Arkhangelsk",
-      "coordinate":"64.543031, 40.537131",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Artybash",
-      "coordinate":"51.79115, 87.25082",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Arvidsjaur",
-      "coordinate":"65.59476, 19.169493",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Aurora",
-      "coordinate":"41.757183, -88.314746",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Avignon",
-      "coordinate":"43.949254, 4.8058968",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Bakhchysarai",
-      "coordinate":"44.7523, 33.853494",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Balaklava",
-      "coordinate":"44.512135, 33.599049",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Balashikha",
-      "coordinate":"55.803613, 37.964656",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Barnaul",
-      "coordinate":"53.347392, 83.778465",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Batavia",
-      "coordinate":"41.843466, -88.319896",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Belgrade",
-      "coordinate":"44.817818, 20.45691",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Berlin",
-      "coordinate":"52.517048, 13.388881",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Bila Tserkva",
-      "coordinate":"49.803806, 30.111705",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Bled",
-      "coordinate":"46.36842, 14.110073",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Bogatynia",
-      "coordinate":"50.907706, 14.953918",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Borås",
-      "coordinate":"57.721081, 12.940759",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Borgholm",
-      "coordinate":"56.87993, 16.656155",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Bremen",
-      "coordinate":"53.075818, 8.8071524",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Brescia",
-      "coordinate":"45.539801, 10.220011",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Bruxelles",
-      "coordinate":"50.846561, 4.3516808",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Chicago",
-      "coordinate":"41.875557, -87.62441",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Chișinău",
-      "coordinate":"47.024523, 28.832313",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Como",
-      "coordinate":"45.811562, 9.0830552",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Damascus",
-      "coordinate":"33.513082, 36.309583",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Den Haag",
-      "coordinate":"52.079972, 4.3113404",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Dmitrov",
-      "coordinate":"56.34508, 37.520053",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Dolgoprudny",
-      "coordinate":"55.934147, 37.51426",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Donetsk",
-      "coordinate":"48.015869, 37.80132",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Dresden",
-      "coordinate":"51.049317, 13.738126",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Dublin",
-      "coordinate":"53.349775, -6.2602551",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Dunkerque",
-      "coordinate":"51.034773, 2.3772314",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Eastbourne",
-      "coordinate":"50.768566, 0.29579418",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Enköping",
-      "coordinate":"59.635621, 17.077841",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Espoo",
-      "coordinate":"60.224187, 24.660383",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Fårö",
-      "coordinate":"57.94418, 19.14247",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Flensburg",
-      "coordinate":"54.786747, 9.4561183",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Flørli",
-      "coordinate":"59.01666, 6.43333",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Foros",
-      "coordinate":"44.391526, 33.787233",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Frankfurt am Main",
-      "coordinate":"50.110634, 8.682097",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Gagra",
-      "coordinate":"43.27951, 40.27055",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Gävle",
-      "coordinate":"60.675022, 17.146721",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Gdańsk",
-      "coordinate":"54.348295, 18.654036",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Geneva",
-      "coordinate":"41.887539, -88.305348",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Gori",
-      "coordinate":"41.981845, 44.111765",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Gorno-Altaysk",
-      "coordinate":"51.957772, 85.963672",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Göteborg",
-      "coordinate":"57.707236, 11.96701",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Gotska Sanden",
-      "coordinate":"58.36719, 19.24547",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Gozd Martuljek",
-      "coordinate":"46.48542, 13.84538",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Graz",
-      "coordinate":"47.070872, 15.43826",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Grevenmacher",
-      "coordinate":"49.679313, 6.4430994",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Hamburg",
-      "coordinate":"53.550346, 10.000671",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Hannover",
-      "coordinate":"52.37449, 9.7385442",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Hastings",
-      "coordinate":"50.855394, 0.58246868",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Helsingborg",
-      "coordinate":"56.044208, 12.704081",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Helsingør",
-      "coordinate":"56.034883, 12.613014",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Helsinki",
-      "coordinate":"60.16749, 24.942766",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Hong Kong",
-      "coordinate":"22.27931, 114.16283",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Innsbruck",
-      "coordinate":"47.265417, 11.392759",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"İstanbul",
-      "coordinate":"41.009621, 28.965179",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Izhevsk",
-      "coordinate":"56.866562, 53.209433",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Jersey City",
-      "coordinate":"40.728157, -74.077622",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Jokkmokk",
-      "coordinate":"66.605852, 19.837942",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Jönköping",
-      "coordinate":"57.782565, 14.165735",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Jūrmala",
-      "coordinate":"56.972718, 23.788686",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kadiivka",
-      "coordinate":"48.561689, 38.664133",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kaliningrad",
-      "coordinate":"54.710136, 20.510597",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kaluga",
-      "coordinate":"54.510112, 36.259801",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Karlovy Vary",
-      "coordinate":"50.23048, 12.871064",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Karlstad",
-      "coordinate":"59.380911, 13.502778",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kehl",
-      "coordinate":"48.572906, 7.8109583",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kemerovo",
-      "coordinate":"55.355079, 86.087139",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kharkiv",
-      "coordinate":"49.990268, 36.230404",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kherson",
-      "coordinate":"46.641265, 32.625815",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kingston upon Thames",
-      "coordinate":"51.409638, -0.30626552",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kiruna",
-      "coordinate":"67.855066, 20.225554",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Klagenfurt",
-      "coordinate":"46.622817, 14.307956",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Klaipėda",
-      "coordinate":"55.712745, 21.135059",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"København",
-      "coordinate":"55.686723, 12.570056",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Köln",
-      "coordinate":"50.938356, 6.9599899",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kolomna",
-      "coordinate":"55.093883, 38.767001",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kranjska Gora",
-      "coordinate":"46.48452, 13.78571",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Krasnaya Polyana",
-      "coordinate":"43.677948, 40.20694",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Krasnogorsk",
-      "coordinate":"55.821747, 37.340409",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Luhansk",
-      "coordinate":"48.571713, 39.297306",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kursk",
-      "coordinate":"51.739432, 36.179592",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kyiv",
-      "coordinate":"50.450035, 30.524121",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Lahti",
-      "coordinate":"60.982595, 25.661383",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Le Havre",
-      "coordinate":"49.493905, 0.10795356",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Lecco",
-      "coordinate":"45.855367, 9.3895996",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Leuven",
-      "coordinate":"50.879201, 4.7011833",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Liberec",
-      "coordinate":"50.770276, 15.058374",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Lillehammer",
-      "coordinate":"61.11527, 10.46623",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"London",
-      "coordinate":"51.507318, -0.12765186",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Long Beach",
-      "coordinate":"40.589144, -73.669283",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Lugano",
-      "coordinate":"46.005, 8.9520347",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Luleå",
-      "coordinate":"65.583126, 22.145973",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Luxembourg",
-      "coordinate":"49.611284, 6.1297926",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Lysebotn",
-      "coordinate":"59.0554, 6.64852",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Lysekil",
-      "coordinate":"58.277183, 11.443099",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Lyubertsy",
-      "coordinate":"55.678303, 37.89376",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Malé",
-      "coordinate":"4.1779856, 73.510753",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Malmö",
-      "coordinate":"55.605304, 13.000154",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Manosque",
-      "coordinate":"43.833802, 5.7826671",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Mariehamn",
-      "coordinate":"60.102419, 19.941239",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Marseille",
-      "coordinate":"43.296187, 5.3699332",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Mertert",
-      "coordinate":"49.700201, 6.4815972",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Mezzegra",
-      "coordinate":"45.982483, 9.2039668",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Milano",
-      "coordinate":"45.466802, 9.1905153",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Moscow",
-      "coordinate":"55.750441, 37.617514",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Mosel",
-      "coordinate":"50.027556, 7.1813043",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Mui Wo",
-      "coordinate":"22.264537, 114.0013",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"München",
-      "coordinate":"48.1371, 11.575364",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Mykolaiv",
-      "coordinate":"46.974884, 31.986119",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"New York",
-      "coordinate":"40.71274, -74.005996",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Newark",
-      "coordinate":"40.735669, -74.172379",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Ngong Ping",
-      "coordinate":"22.25609, 113.90531",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Nikola-Lenivets",
-      "coordinate":"54.75185, 35.5998",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Novomoskovsk",
-      "coordinate":"54.011014, 38.290942",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Novosibirsk",
-      "coordinate":"55.028211, 82.923463",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Nyköping",
-      "coordinate":"58.754551, 17.012052",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Nynäshamn",
-      "coordinate":"58.905637, 17.947092",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Oak Park",
-      "coordinate":"41.887826, -87.788776",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Odesa",
-      "coordinate":"46.487332, 30.739256",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Odintsovo",
-      "coordinate":"55.67114, 37.272818",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Oslo",
-      "coordinate":"59.913336, 10.738987",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Östersund",
-      "coordinate":"63.179359, 14.635701",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Paris",
-      "coordinate":"48.856687, 2.3514821",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Pezhma",
-      "coordinate":"60.97704, 41.80418",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Pigra",
-      "coordinate":"45.957562, 9.1276955",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Pori",
-      "coordinate":"61.486552, 21.796899",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Porlezza",
-      "coordinate":"46.036071, 9.118391",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Potsdam",
-      "coordinate":"52.400918, 13.059119",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Prague",
-      "coordinate":"50.087455, 14.421253",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Repulse Bay",
-      "coordinate":"22.23715, 114.19712",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Rīga",
-      "coordinate":"56.949391, 24.105187",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Rotterdam",
-      "coordinate":"51.924438, 4.4777661",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Sagarejo",
-      "coordinate":"41.731375, 45.331548",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Saint Charles",
-      "coordinate":"41.913987, -88.312815",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Saint Paul's Bay",
-      "coordinate":"35.948085, 14.397392",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Saint Petersburg",
-      "coordinate":"59.938734, 30.31624",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Saint-Martin-de-Brômes",
-      "coordinate":"43.769538, 5.9462148",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Saint-Michel-l'Observatoire",
-      "coordinate":"43.90945, 5.7172185",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Salzburg",
-      "coordinate":"47.798127, 13.046459",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Sandhamn",
-      "coordinate":"59.28787, 18.91083",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Sault",
-      "coordinate":"44.091784, 5.4087082",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Schengen",
-      "coordinate":"49.471601, 6.3659001",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Sergiev Posad",
-      "coordinate":"56.315363, 38.135803",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Sevastopol",
-      "coordinate":"44.60543, 33.522102",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Sigtuna",
-      "coordinate":"59.616526, 17.723632",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Simferopol",
-      "coordinate":"44.952154, 34.102489",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Sochi",
-      "coordinate":"43.585478, 39.723113",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Sochumi",
-      "coordinate":"43.003349, 41.019285",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Stavanger",
-      "coordinate":"58.969962, 5.7317955",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Stockholm",
-      "coordinate":"59.325127, 18.071074",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Strasbourg",
-      "coordinate":"48.584604, 7.7507051",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Suzdal",
-      "coordinate":"56.419401, 40.448768",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Swemeh",
-      "coordinate":"31.76594, 35.59837",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Szczecin",
-      "coordinate":"53.430188, 14.550943",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Tbilisi",
-      "coordinate":"41.693444, 44.801458",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Tong Fuk",
-      "coordinate":"22.22826, 113.93193",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Torriggia",
-      "coordinate":"45.891764, 9.1433195",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Torzhok",
-      "coordinate":"57.040793, 34.97337",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Trento",
-      "coordinate":"46.066432, 11.12574",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Trets",
-      "coordinate":"43.446907, 5.685142",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Treviso",
-      "coordinate":"45.665845, 12.24553",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Trondheim",
-      "coordinate":"63.430567, 10.395192",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Trosa",
-      "coordinate":"58.896703, 17.547807",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Tsim Sha Sui",
-      "coordinate":"22.29881, 114.17217",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Tsitsamuri",
-      "coordinate":"41.86145, 44.733",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Tskhinvali",
-      "coordinate":"42.225137, 43.970831",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Tula",
-      "coordinate":"54.193044, 37.617557",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Turku",
-      "coordinate":"60.451752, 22.267037",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Turnov",
-      "coordinate":"50.587396, 15.157422",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Turochak",
-      "coordinate":"52.259954, 87.117537",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Tver",
-      "coordinate":"56.858679, 35.920813",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Umeå",
-      "coordinate":"63.844466, 20.321813",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Uppsala",
-      "coordinate":"59.858603, 17.638745",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Utrecht",
-      "coordinate":"52.094976, 5.1096945",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Vaasa",
-      "coordinate":"63.095763, 21.615925",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"València",
-      "coordinate":"39.469715, -0.37634628",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Valensole",
-      "coordinate":"43.837925, 5.9839803",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Valletta",
-      "coordinate":"35.898979, 14.513692",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Vantaa",
-      "coordinate":"60.309197, 25.03645",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Västerås",
-      "coordinate":"59.611099, 16.546378",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Vaxholm",
-      "coordinate":"59.40405, 18.331313",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Veliky Novgorod",
-      "coordinate":"58.520993, 31.275784",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Velsk",
-      "coordinate":"61.06376, 42.0991",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Venice",
-      "coordinate":"45.437178, 12.33458",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Verona",
-      "coordinate":"45.438503, 10.992402",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Victoria",
-      "coordinate":"36.042874, 14.239849",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Villach",
-      "coordinate":"46.616716, 13.850006",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Visby",
-      "coordinate":"57.637929, 18.297968",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Vladimir",
-      "coordinate":"56.128899, 40.407527",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Vydropuzhsk",
-      "coordinate":"57.36696, 34.8415",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Vyshny Volochyok",
-      "coordinate":"57.58901, 34.56026",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Wadi Musa",
-      "coordinate":"30.32164, 35.480072",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Wadi Rum",
-      "coordinate":"29.57429, 35.42103",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Warszawa",
-      "coordinate":"52.23197, 21.006742",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Wien",
-      "coordinate":"48.208363, 16.372485",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Wildrose",
-      "coordinate":"41.92752, -88.33229",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Yalta",
-      "coordinate":"44.497076, 34.158708",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Yaylyu",
-      "coordinate":"51.76944, 87.60277",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Yekaterinburg",
-      "coordinate":"56.839107, 60.608254",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Zaporizhzhia",
-      "coordinate":"47.850798, 35.118296",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Zarechny",
-      "coordinate":"56.814967, 61.320605",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Zelenograd",
-      "coordinate":"55.99643, 37.198531",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Zürich",
-      "coordinate":"47.374455, 8.5410343",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Strečno",
-      "coordinate":"49.18942, 18.86491",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Katowice",
-      "coordinate":"50.25874, 19.02015",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Znojme",
-      "coordinate":"48.85522, 16.04840",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Budapest",
-      "coordinate":"47.49540, 19.05641",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Vancouver",
-      "coordinate":"49.2827, -123.1207",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Squamish",
-      "coordinate":"49.7016, -123.1558",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Whistler",
-      "coordinate":"50.1162, -122.9535",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Palm Springs",
-      "coordinate":"33.8303, -116.5453",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Phoenix",
-      "coordinate":"33.4484, -112.0740",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Dallas",
-      "coordinate":"32.7767, -96.7970",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kamloops",
-      "coordinate":"50.6745, -120.3273",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Kelowna",
-      "coordinate":"49.8880, -119.4960",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Larnaca",
-      "coordinate":"34.9182, 33.6201",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Athens",
-      "coordinate":"37.9838, 23.7275",
-      "color":"#192c55",
-      "glyphText":""
-   },
-   {
-      "title":"Vanadzor",
-      "coordinate":"40.8074, 44.4970",
-      "color":"#192c55",
-      "glyphText":""
-   }
+  {
+    "title": "Abbaye Notre-Dame de Sénanque",
+    "coordinate": "43.928164, 5.1868385",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Adler",
+    "coordinate": "43.425392, 39.923699",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Aix-en-Provence",
+    "coordinate": "43.52984, 5.4474812",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Amman",
+    "coordinate": "31.951565, 35.923945",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Amsterdam",
+    "coordinate": "52.372761, 4.8936158",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Antwerpen",
+    "coordinate": "51.221122, 4.3997031",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Aqaba",
+    "coordinate": "29.526701, 35.007831",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Åre",
+    "coordinate": "63.39904, 13.0815",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Arjeplog",
+    "coordinate": "66.051761, 17.891688",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Arkhangelsk",
+    "coordinate": "64.543031, 40.537131",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Artybash",
+    "coordinate": "51.79115, 87.25082",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Arvidsjaur",
+    "coordinate": "65.59476, 19.169493",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Aurora",
+    "coordinate": "41.757183, -88.314746",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Avignon",
+    "coordinate": "43.949254, 4.8058968",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Bakhchysarai",
+    "coordinate": "44.7523, 33.853494",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Balaklava",
+    "coordinate": "44.512135, 33.599049",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Balashikha",
+    "coordinate": "55.803613, 37.964656",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Barnaul",
+    "coordinate": "53.347392, 83.778465",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Batavia",
+    "coordinate": "41.843466, -88.319896",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Belgrade",
+    "coordinate": "44.817818, 20.45691",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Berlin",
+    "coordinate": "52.517048, 13.388881",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Bila Tserkva",
+    "coordinate": "49.803806, 30.111705",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Bled",
+    "coordinate": "46.36842, 14.110073",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Bogatynia",
+    "coordinate": "50.907706, 14.953918",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Borås",
+    "coordinate": "57.721081, 12.940759",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Borgholm",
+    "coordinate": "56.87993, 16.656155",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Bremen",
+    "coordinate": "53.075818, 8.8071524",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Brescia",
+    "coordinate": "45.539801, 10.220011",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Bruxelles",
+    "coordinate": "50.846561, 4.3516808",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Chicago",
+    "coordinate": "41.875557, -87.62441",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Chișinău",
+    "coordinate": "47.024523, 28.832313",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Como",
+    "coordinate": "45.811562, 9.0830552",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Damascus",
+    "coordinate": "33.513082, 36.309583",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Den Haag",
+    "coordinate": "52.079972, 4.3113404",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Dmitrov",
+    "coordinate": "56.34508, 37.520053",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Dolgoprudny",
+    "coordinate": "55.934147, 37.51426",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Donetsk",
+    "coordinate": "48.015869, 37.80132",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Dresden",
+    "coordinate": "51.049317, 13.738126",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Dublin",
+    "coordinate": "53.349775, -6.2602551",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Dunkerque",
+    "coordinate": "51.034773, 2.3772314",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Eastbourne",
+    "coordinate": "50.768566, 0.29579418",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Enköping",
+    "coordinate": "59.635621, 17.077841",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Espoo",
+    "coordinate": "60.224187, 24.660383",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Fårö",
+    "coordinate": "57.94418, 19.14247",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Flensburg",
+    "coordinate": "54.786747, 9.4561183",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Flørli",
+    "coordinate": "59.01666, 6.43333",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Foros",
+    "coordinate": "44.391526, 33.787233",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Frankfurt am Main",
+    "coordinate": "50.110634, 8.682097",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Gagra",
+    "coordinate": "43.27951, 40.27055",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Gävle",
+    "coordinate": "60.675022, 17.146721",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Gdańsk",
+    "coordinate": "54.348295, 18.654036",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Geneva",
+    "coordinate": "41.887539, -88.305348",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Gori",
+    "coordinate": "41.981845, 44.111765",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Gorno-Altaysk",
+    "coordinate": "51.957772, 85.963672",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Göteborg",
+    "coordinate": "57.707236, 11.96701",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Gotska Sanden",
+    "coordinate": "58.36719, 19.24547",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Gozd Martuljek",
+    "coordinate": "46.48542, 13.84538",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Graz",
+    "coordinate": "47.070872, 15.43826",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Grevenmacher",
+    "coordinate": "49.679313, 6.4430994",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Hamburg",
+    "coordinate": "53.550346, 10.000671",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Hannover",
+    "coordinate": "52.37449, 9.7385442",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Hastings",
+    "coordinate": "50.855394, 0.58246868",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Helsingborg",
+    "coordinate": "56.044208, 12.704081",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Helsingør",
+    "coordinate": "56.034883, 12.613014",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Helsinki",
+    "coordinate": "60.16749, 24.942766",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Hong Kong",
+    "coordinate": "22.27931, 114.16283",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Innsbruck",
+    "coordinate": "47.265417, 11.392759",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "İstanbul",
+    "coordinate": "41.009621, 28.965179",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Izhevsk",
+    "coordinate": "56.866562, 53.209433",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Jersey City",
+    "coordinate": "40.728157, -74.077622",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Jokkmokk",
+    "coordinate": "66.605852, 19.837942",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Jönköping",
+    "coordinate": "57.782565, 14.165735",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Jūrmala",
+    "coordinate": "56.972718, 23.788686",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kadiivka",
+    "coordinate": "48.561689, 38.664133",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kaliningrad",
+    "coordinate": "54.710136, 20.510597",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kaluga",
+    "coordinate": "54.510112, 36.259801",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Karlovy Vary",
+    "coordinate": "50.23048, 12.871064",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Karlstad",
+    "coordinate": "59.380911, 13.502778",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kehl",
+    "coordinate": "48.572906, 7.8109583",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kemerovo",
+    "coordinate": "55.355079, 86.087139",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kharkiv",
+    "coordinate": "49.990268, 36.230404",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kherson",
+    "coordinate": "46.641265, 32.625815",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kingston upon Thames",
+    "coordinate": "51.409638, -0.30626552",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kiruna",
+    "coordinate": "67.855066, 20.225554",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Klagenfurt",
+    "coordinate": "46.622817, 14.307956",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Klaipėda",
+    "coordinate": "55.712745, 21.135059",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "København",
+    "coordinate": "55.686723, 12.570056",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Köln",
+    "coordinate": "50.938356, 6.9599899",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kolomna",
+    "coordinate": "55.093883, 38.767001",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kranjska Gora",
+    "coordinate": "46.48452, 13.78571",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Krasnaya Polyana",
+    "coordinate": "43.677948, 40.20694",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Krasnogorsk",
+    "coordinate": "55.821747, 37.340409",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Luhansk",
+    "coordinate": "48.571713, 39.297306",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kursk",
+    "coordinate": "51.739432, 36.179592",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kyiv",
+    "coordinate": "50.450035, 30.524121",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Lahti",
+    "coordinate": "60.982595, 25.661383",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Le Havre",
+    "coordinate": "49.493905, 0.10795356",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Lecco",
+    "coordinate": "45.855367, 9.3895996",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Leuven",
+    "coordinate": "50.879201, 4.7011833",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Liberec",
+    "coordinate": "50.770276, 15.058374",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Lillehammer",
+    "coordinate": "61.11527, 10.46623",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "London",
+    "coordinate": "51.507318, -0.12765186",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Long Beach",
+    "coordinate": "40.589144, -73.669283",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Lugano",
+    "coordinate": "46.005, 8.9520347",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Luleå",
+    "coordinate": "65.583126, 22.145973",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Luxembourg",
+    "coordinate": "49.611284, 6.1297926",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Lysebotn",
+    "coordinate": "59.0554, 6.64852",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Lysekil",
+    "coordinate": "58.277183, 11.443099",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Lyubertsy",
+    "coordinate": "55.678303, 37.89376",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Malé",
+    "coordinate": "4.1779856, 73.510753",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Malmö",
+    "coordinate": "55.605304, 13.000154",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Manosque",
+    "coordinate": "43.833802, 5.7826671",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Mariehamn",
+    "coordinate": "60.102419, 19.941239",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Marseille",
+    "coordinate": "43.296187, 5.3699332",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Mertert",
+    "coordinate": "49.700201, 6.4815972",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Mezzegra",
+    "coordinate": "45.982483, 9.2039668",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Milano",
+    "coordinate": "45.466802, 9.1905153",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Moscow",
+    "coordinate": "55.750441, 37.617514",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Mosel",
+    "coordinate": "50.027556, 7.1813043",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Mui Wo",
+    "coordinate": "22.264537, 114.0013",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "München",
+    "coordinate": "48.1371, 11.575364",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Mykolaiv",
+    "coordinate": "46.974884, 31.986119",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "New York",
+    "coordinate": "40.71274, -74.005996",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Newark",
+    "coordinate": "40.735669, -74.172379",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Ngong Ping",
+    "coordinate": "22.25609, 113.90531",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Nikola-Lenivets",
+    "coordinate": "54.75185, 35.5998",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Novomoskovsk",
+    "coordinate": "54.011014, 38.290942",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Novosibirsk",
+    "coordinate": "55.028211, 82.923463",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Nyköping",
+    "coordinate": "58.754551, 17.012052",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Nynäshamn",
+    "coordinate": "58.905637, 17.947092",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Oak Park",
+    "coordinate": "41.887826, -87.788776",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Odesa",
+    "coordinate": "46.487332, 30.739256",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Odintsovo",
+    "coordinate": "55.67114, 37.272818",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Oslo",
+    "coordinate": "59.913336, 10.738987",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Östersund",
+    "coordinate": "63.179359, 14.635701",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Paris",
+    "coordinate": "48.856687, 2.3514821",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Pezhma",
+    "coordinate": "60.97704, 41.80418",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Pigra",
+    "coordinate": "45.957562, 9.1276955",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Pori",
+    "coordinate": "61.486552, 21.796899",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Porlezza",
+    "coordinate": "46.036071, 9.118391",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Potsdam",
+    "coordinate": "52.400918, 13.059119",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Prague",
+    "coordinate": "50.087455, 14.421253",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Repulse Bay",
+    "coordinate": "22.23715, 114.19712",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Rīga",
+    "coordinate": "56.949391, 24.105187",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Rotterdam",
+    "coordinate": "51.924438, 4.4777661",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Sagarejo",
+    "coordinate": "41.731375, 45.331548",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Saint Charles",
+    "coordinate": "41.913987, -88.312815",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Saint Paul's Bay",
+    "coordinate": "35.948085, 14.397392",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Saint Petersburg",
+    "coordinate": "59.938734, 30.31624",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Saint-Martin-de-Brômes",
+    "coordinate": "43.769538, 5.9462148",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Saint-Michel-l'Observatoire",
+    "coordinate": "43.90945, 5.7172185",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Salzburg",
+    "coordinate": "47.798127, 13.046459",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Sandhamn",
+    "coordinate": "59.28787, 18.91083",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Sault",
+    "coordinate": "44.091784, 5.4087082",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Schengen",
+    "coordinate": "49.471601, 6.3659001",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Sergiev Posad",
+    "coordinate": "56.315363, 38.135803",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Sevastopol",
+    "coordinate": "44.60543, 33.522102",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Sigtuna",
+    "coordinate": "59.616526, 17.723632",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Simferopol",
+    "coordinate": "44.952154, 34.102489",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Sochi",
+    "coordinate": "43.585478, 39.723113",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Sochumi",
+    "coordinate": "43.003349, 41.019285",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Stavanger",
+    "coordinate": "58.969962, 5.7317955",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Stockholm",
+    "coordinate": "59.325127, 18.071074",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Strasbourg",
+    "coordinate": "48.584604, 7.7507051",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Suzdal",
+    "coordinate": "56.419401, 40.448768",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Swemeh",
+    "coordinate": "31.76594, 35.59837",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Szczecin",
+    "coordinate": "53.430188, 14.550943",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Tbilisi",
+    "coordinate": "41.693444, 44.801458",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Tong Fuk",
+    "coordinate": "22.22826, 113.93193",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Torriggia",
+    "coordinate": "45.891764, 9.1433195",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Torzhok",
+    "coordinate": "57.040793, 34.97337",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Trento",
+    "coordinate": "46.066432, 11.12574",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Trets",
+    "coordinate": "43.446907, 5.685142",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Treviso",
+    "coordinate": "45.665845, 12.24553",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Trondheim",
+    "coordinate": "63.430567, 10.395192",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Trosa",
+    "coordinate": "58.896703, 17.547807",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Tsim Sha Sui",
+    "coordinate": "22.29881, 114.17217",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Tsitsamuri",
+    "coordinate": "41.86145, 44.733",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Tskhinvali",
+    "coordinate": "42.225137, 43.970831",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Tula",
+    "coordinate": "54.193044, 37.617557",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Turku",
+    "coordinate": "60.451752, 22.267037",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Turnov",
+    "coordinate": "50.587396, 15.157422",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Turochak",
+    "coordinate": "52.259954, 87.117537",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Tver",
+    "coordinate": "56.858679, 35.920813",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Umeå",
+    "coordinate": "63.844466, 20.321813",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Uppsala",
+    "coordinate": "59.858603, 17.638745",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Utrecht",
+    "coordinate": "52.094976, 5.1096945",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Vaasa",
+    "coordinate": "63.095763, 21.615925",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "València",
+    "coordinate": "39.469715, -0.37634628",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Valensole",
+    "coordinate": "43.837925, 5.9839803",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Valletta",
+    "coordinate": "35.898979, 14.513692",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Vantaa",
+    "coordinate": "60.309197, 25.03645",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Västerås",
+    "coordinate": "59.611099, 16.546378",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Vaxholm",
+    "coordinate": "59.40405, 18.331313",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Veliky Novgorod",
+    "coordinate": "58.520993, 31.275784",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Velsk",
+    "coordinate": "61.06376, 42.0991",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Venice",
+    "coordinate": "45.437178, 12.33458",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Verona",
+    "coordinate": "45.438503, 10.992402",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Victoria",
+    "coordinate": "36.042874, 14.239849",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Villach",
+    "coordinate": "46.616716, 13.850006",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Visby",
+    "coordinate": "57.637929, 18.297968",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Vladimir",
+    "coordinate": "56.128899, 40.407527",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Vydropuzhsk",
+    "coordinate": "57.36696, 34.8415",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Vyshny Volochyok",
+    "coordinate": "57.58901, 34.56026",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Wadi Musa",
+    "coordinate": "30.32164, 35.480072",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Wadi Rum",
+    "coordinate": "29.57429, 35.42103",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Warszawa",
+    "coordinate": "52.23197, 21.006742",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Wien",
+    "coordinate": "48.208363, 16.372485",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Wildrose",
+    "coordinate": "41.92752, -88.33229",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Yalta",
+    "coordinate": "44.497076, 34.158708",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Yaylyu",
+    "coordinate": "51.76944, 87.60277",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Yekaterinburg",
+    "coordinate": "56.839107, 60.608254",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Zaporizhzhia",
+    "coordinate": "47.850798, 35.118296",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Zarechny",
+    "coordinate": "56.814967, 61.320605",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Zelenograd",
+    "coordinate": "55.99643, 37.198531",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Zürich",
+    "coordinate": "47.374455, 8.5410343",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Strečno",
+    "coordinate": "49.18942, 18.86491",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Katowice",
+    "coordinate": "50.25874, 19.02015",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Znojme",
+    "coordinate": "48.85522, 16.04840",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Budapest",
+    "coordinate": "47.49540, 19.05641",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Vancouver",
+    "coordinate": "49.2827, -123.1207",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Squamish",
+    "coordinate": "49.7016, -123.1558",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Whistler",
+    "coordinate": "50.1162, -122.9535",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Palm Springs",
+    "coordinate": "33.8303, -116.5453",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Phoenix",
+    "coordinate": "33.4484, -112.0740",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Dallas",
+    "coordinate": "32.7767, -96.7970",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kamloops",
+    "coordinate": "50.6745, -120.3273",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Kelowna",
+    "coordinate": "49.8880, -119.4960",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Larnaca",
+    "coordinate": "34.9182, 33.6201",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Athens",
+    "coordinate": "37.9838, 23.7275",
+    "color": "#192c55",
+    "glyphText": ""
+  },
+  {
+    "title": "Vanadzor",
+    "coordinate": "40.8074, 44.4970",
+    "color": "#192c55",
+    "glyphText": ""
+  }
 ]
