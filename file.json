@@ -1,1388 +1,2081 @@
 [
   {
+    "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
     "title": "Abbaye Notre-Dame de Sénanque",
     "coordinate": "43.928164, 5.1868385",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
     "title": "Adler",
     "coordinate": "43.425392, 39.923699",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
     "title": "Aix-en-Provence",
     "coordinate": "43.52984, 5.4474812",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
     "title": "Amman",
     "coordinate": "31.951565, 35.923945",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Jordan"
   },
   {
+    "uuid": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
     "title": "Amsterdam",
     "coordinate": "52.372761, 4.8936158",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Netherlands"
   },
   {
+    "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
     "title": "Antwerpen",
     "coordinate": "51.221122, 4.3997031",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Belgium"
   },
   {
+    "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
     "title": "Aqaba",
     "coordinate": "29.526701, 35.007831",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Jordan"
   },
   {
+    "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
     "title": "Åre",
     "coordinate": "63.39904, 13.0815",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
     "title": "Arjeplog",
     "coordinate": "66.051761, 17.891688",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
     "title": "Arkhangelsk",
     "coordinate": "64.543031, 40.537131",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b",
     "title": "Artybash",
     "coordinate": "51.79115, 87.25082",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6c",
     "title": "Arvidsjaur",
     "coordinate": "65.59476, 19.169493",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7d",
     "title": "Aurora",
     "coordinate": "41.757183, -88.314746",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8e",
     "title": "Avignon",
     "coordinate": "43.949254, 4.8058968",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9f",
     "title": "Bakhchysarai",
     "coordinate": "44.7523, 33.853494",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0a",
     "title": "Balaklava",
     "coordinate": "44.512135, 33.599049",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1b",
     "title": "Balashikha",
     "coordinate": "55.803613, 37.964656",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2c",
     "title": "Barnaul",
     "coordinate": "53.347392, 83.778465",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3d",
     "title": "Batavia",
     "coordinate": "41.843466, -88.319896",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4e",
     "title": "Belgrade",
     "coordinate": "44.817818, 20.45691",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Serbia"
   },
   {
+    "uuid": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5f",
     "title": "Berlin",
     "coordinate": "52.517048, 13.388881",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6a",
     "title": "Bila Tserkva",
     "coordinate": "49.803806, 30.111705",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7b",
     "title": "Bled",
     "coordinate": "46.36842, 14.110073",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Slovenia"
   },
   {
+    "uuid": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8c",
     "title": "Bogatynia",
     "coordinate": "50.907706, 14.953918",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Poland"
   },
   {
+    "uuid": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9d",
     "title": "Borås",
     "coordinate": "57.721081, 12.940759",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0e",
     "title": "Borgholm",
     "coordinate": "56.87993, 16.656155",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1f",
     "title": "Bremen",
     "coordinate": "53.075818, 8.8071524",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2a",
     "title": "Brescia",
     "coordinate": "45.539801, 10.220011",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3b",
     "title": "Bruxelles",
     "coordinate": "50.846561, 4.3516808",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Belgium"
   },
   {
+    "uuid": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c",
     "title": "Chicago",
     "coordinate": "41.875557, -87.62441",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e",
     "title": "Chișinău",
     "coordinate": "47.024523, 28.832313",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Moldova"
   },
   {
+    "uuid": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6f",
     "title": "Como",
     "coordinate": "45.811562, 9.0830552",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7a",
     "title": "Damascus",
     "coordinate": "33.513082, 36.309583",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Syria"
   },
   {
+    "uuid": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8b",
     "title": "Den Haag",
     "coordinate": "52.079972, 4.3113404",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Netherlands"
   },
   {
+    "uuid": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9c",
     "title": "Dmitrov",
     "coordinate": "56.34508, 37.520053",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0d",
     "title": "Dolgoprudny",
     "coordinate": "55.934147, 37.51426",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1e",
     "title": "Donetsk",
     "coordinate": "48.015869, 37.80132",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2f",
     "title": "Dresden",
     "coordinate": "51.049317, 13.738126",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3a",
     "title": "Dublin",
     "coordinate": "53.349775, -6.2602551",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ireland"
   },
   {
+    "uuid": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4b",
     "title": "Dunkerque",
     "coordinate": "51.034773, 2.3772314",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5c",
     "title": "Eastbourne",
     "coordinate": "50.768566, 0.29579418",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United Kingdom"
   },
   {
+    "uuid": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6d",
     "title": "Enköping",
     "coordinate": "59.635621, 17.077841",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7e",
     "title": "Espoo",
     "coordinate": "60.224187, 24.660383",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Finland"
   },
   {
+    "uuid": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8f",
     "title": "Fårö",
     "coordinate": "57.94418, 19.14247",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9a",
     "title": "Flensburg",
     "coordinate": "54.786747, 9.4561183",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0b",
     "title": "Flørli",
     "coordinate": "59.01666, 6.43333",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Norway"
   },
   {
+    "uuid": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1c",
     "title": "Foros",
     "coordinate": "44.391526, 33.787233",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2d",
     "title": "Frankfurt am Main",
     "coordinate": "50.110634, 8.682097",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3e",
     "title": "Gagra",
     "coordinate": "43.27951, 40.27055",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Abkhazia"
   },
   {
+    "uuid": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4f",
     "title": "Gävle",
     "coordinate": "60.675022, 17.146721",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5a",
     "title": "Gdańsk",
     "coordinate": "54.348295, 18.654036",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Poland"
   },
   {
+    "uuid": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6b",
     "title": "Geneva",
     "coordinate": "41.887539, -88.305348",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7c",
     "title": "Gori",
     "coordinate": "41.981845, 44.111765",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Georgia"
   },
   {
+    "uuid": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8d",
     "title": "Gorno-Altaysk",
     "coordinate": "51.957772, 85.963672",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9e",
     "title": "Göteborg",
     "coordinate": "57.707236, 11.96701",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0f",
     "title": "Gotska Sanden",
     "coordinate": "58.36719, 19.24547",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1a",
     "title": "Gozd Martuljek",
     "coordinate": "46.48542, 13.84538",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Slovenia"
   },
   {
+    "uuid": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2b",
     "title": "Graz",
     "coordinate": "47.070872, 15.43826",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Austria"
   },
   {
+    "uuid": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3c",
     "title": "Grevenmacher",
     "coordinate": "49.679313, 6.4430994",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Luxembourg"
   },
   {
+    "uuid": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4d",
     "title": "Hamburg",
     "coordinate": "53.550346, 10.000671",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5f",
     "title": "Hannover",
     "coordinate": "52.37449, 9.7385442",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6a",
     "title": "Hastings",
     "coordinate": "50.855394, 0.58246868",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United Kingdom"
   },
   {
+    "uuid": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7b",
     "title": "Helsingborg",
     "coordinate": "56.044208, 12.704081",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8c",
     "title": "Helsingør",
     "coordinate": "56.034883, 12.613014",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Denmark"
   },
   {
+    "uuid": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9d",
     "title": "Helsinki",
     "coordinate": "60.16749, 24.942766",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Finland"
   },
   {
+    "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0e",
     "title": "Hong Kong",
     "coordinate": "22.27931, 114.16283",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Hong Kong"
   },
   {
+    "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1f",
     "title": "Innsbruck",
     "coordinate": "47.265417, 11.392759",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Austria"
   },
   {
+    "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2a",
     "title": "İstanbul",
     "coordinate": "41.009621, 28.965179",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Turkey"
   },
   {
+    "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3b",
     "title": "Izhevsk",
     "coordinate": "56.866562, 53.209433",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4c",
     "title": "Jersey City",
     "coordinate": "40.728157, -74.077622",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5d",
     "title": "Jokkmokk",
     "coordinate": "66.605852, 19.837942",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6e",
     "title": "Jönköping",
     "coordinate": "57.782565, 14.165735",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7f",
     "title": "Jūrmala",
     "coordinate": "56.972718, 23.788686",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Latvia"
   },
   {
+    "uuid": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8a",
     "title": "Kadiivka",
     "coordinate": "48.561689, 38.664133",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9b",
     "title": "Kaliningrad",
     "coordinate": "54.710136, 20.510597",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0c",
     "title": "Kaluga",
     "coordinate": "54.510112, 36.259801",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1d",
     "title": "Karlovy Vary",
     "coordinate": "50.23048, 12.871064",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Czech Republic"
   },
   {
+    "uuid": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2e",
     "title": "Karlstad",
     "coordinate": "59.380911, 13.502778",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3f",
     "title": "Kehl",
     "coordinate": "48.572906, 7.8109583",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4a",
     "title": "Kemerovo",
     "coordinate": "55.355079, 86.087139",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5b",
     "title": "Kharkiv",
     "coordinate": "49.990268, 36.230404",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6c",
     "title": "Kherson",
     "coordinate": "46.641265, 32.625815",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7d",
     "title": "Kingston upon Thames",
     "coordinate": "51.409638, -0.30626552",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United Kingdom"
   },
   {
+    "uuid": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8e",
     "title": "Kiruna",
     "coordinate": "67.855066, 20.225554",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9f",
     "title": "Klagenfurt",
     "coordinate": "46.622817, 14.307956",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Austria"
   },
   {
+    "uuid": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0a",
     "title": "Klaipėda",
     "coordinate": "55.712745, 21.135059",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Lithuania"
   },
   {
+    "uuid": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1b",
     "title": "København",
     "coordinate": "55.686723, 12.570056",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Denmark"
   },
   {
+    "uuid": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2c",
     "title": "Köln",
     "coordinate": "50.938356, 6.9599899",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3d",
     "title": "Kolomna",
     "coordinate": "55.093883, 38.767001",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4e",
     "title": "Kranjska Gora",
     "coordinate": "46.48452, 13.78571",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Slovenia"
   },
   {
+    "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5a",
     "title": "Krasnaya Polyana",
     "coordinate": "43.677948, 40.20694",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6b",
     "title": "Krasnogorsk",
     "coordinate": "55.821747, 37.340409",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7c",
     "title": "Luhansk",
     "coordinate": "48.571713, 39.297306",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8d",
     "title": "Kursk",
     "coordinate": "51.739432, 36.179592",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9e",
     "title": "Kyiv",
     "coordinate": "50.450035, 30.524121",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0f",
     "title": "Lahti",
     "coordinate": "60.982595, 25.661383",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Finland"
   },
   {
+    "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1a",
     "title": "Le Havre",
     "coordinate": "49.493905, 0.10795356",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2b",
     "title": "Lecco",
     "coordinate": "45.855367, 9.3895996",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3c",
     "title": "Leuven",
     "coordinate": "50.879201, 4.7011833",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Belgium"
   },
   {
+    "uuid": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4d",
     "title": "Liberec",
     "coordinate": "50.770276, 15.058374",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Czech Republic"
   },
   {
+    "uuid": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5e",
     "title": "Lillehammer",
     "coordinate": "61.11527, 10.46623",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Norway"
   },
   {
+    "uuid": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6f",
     "title": "London",
     "coordinate": "51.507318, -0.12765186",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United Kingdom"
   },
   {
+    "uuid": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7a",
     "title": "Long Beach",
     "coordinate": "40.589144, -73.669283",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8b",
     "title": "Lugano",
     "coordinate": "46.005, 8.9520347",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Switzerland"
   },
   {
+    "uuid": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9c",
     "title": "Luleå",
     "coordinate": "65.583126, 22.145973",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0d",
     "title": "Luxembourg",
     "coordinate": "49.611284, 6.1297926",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Luxembourg"
   },
   {
+    "uuid": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1e",
     "title": "Lysebotn",
     "coordinate": "59.0554, 6.64852",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Norway"
   },
   {
+    "uuid": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2f",
     "title": "Lysekil",
     "coordinate": "58.277183, 11.443099",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3a",
     "title": "Lyubertsy",
     "coordinate": "55.678303, 37.89376",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4b",
     "title": "Malé",
     "coordinate": "4.1779856, 73.510753",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Maldives"
   },
   {
+    "uuid": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5c",
     "title": "Malmö",
     "coordinate": "55.605304, 13.000154",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6d",
     "title": "Manosque",
     "coordinate": "43.833802, 5.7826671",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7e",
     "title": "Mariehamn",
     "coordinate": "60.102419, 19.941239",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Finland"
   },
   {
+    "uuid": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8f",
     "title": "Marseille",
     "coordinate": "43.296187, 5.3699332",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9a",
     "title": "Mertert",
     "coordinate": "49.700201, 6.4815972",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Luxembourg"
   },
   {
+    "uuid": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0b",
     "title": "Mezzegra",
     "coordinate": "45.982483, 9.2039668",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1c",
     "title": "Milano",
     "coordinate": "45.466802, 9.1905153",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2d",
     "title": "Moscow",
     "coordinate": "55.750441, 37.617514",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3e",
     "title": "Mosel",
     "coordinate": "50.027556, 7.1813043",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4f",
     "title": "Mui Wo",
     "coordinate": "22.264537, 114.0013",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Hong Kong"
   },
   {
+    "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5b",
     "title": "München",
     "coordinate": "48.1371, 11.575364",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6c",
     "title": "Mykolaiv",
     "coordinate": "46.974884, 31.986119",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7d",
     "title": "New York",
     "coordinate": "40.71274, -74.005996",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8e",
     "title": "Newark",
     "coordinate": "40.735669, -74.172379",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9f",
     "title": "Ngong Ping",
     "coordinate": "22.25609, 113.90531",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Hong Kong"
   },
   {
+    "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0a",
     "title": "Nikola-Lenivets",
     "coordinate": "54.75185, 35.5998",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1b",
     "title": "Novomoskovsk",
     "coordinate": "54.011014, 38.290942",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2c",
     "title": "Novosibirsk",
     "coordinate": "55.028211, 82.923463",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3d",
     "title": "Nyköping",
     "coordinate": "58.754551, 17.012052",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4e",
     "title": "Nynäshamn",
     "coordinate": "58.905637, 17.947092",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5f",
     "title": "Oak Park",
     "coordinate": "41.887826, -87.788776",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6a",
     "title": "Odesa",
     "coordinate": "46.487332, 30.739256",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7b",
     "title": "Odintsovo",
     "coordinate": "55.67114, 37.272818",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8c",
     "title": "Oslo",
     "coordinate": "59.913336, 10.738987",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Norway"
   },
   {
+    "uuid": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9d",
     "title": "Östersund",
     "coordinate": "63.179359, 14.635701",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0e",
     "title": "Paris",
     "coordinate": "48.856687, 2.3514821",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1f",
     "title": "Pezhma",
     "coordinate": "60.97704, 41.80418",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2a",
     "title": "Pigra",
     "coordinate": "45.957562, 9.1276955",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3b",
     "title": "Pori",
     "coordinate": "61.486552, 21.796899",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Finland"
   },
   {
+    "uuid": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4c",
     "title": "Porlezza",
     "coordinate": "46.036071, 9.118391",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5d",
     "title": "Potsdam",
     "coordinate": "52.400918, 13.059119",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Germany"
   },
   {
+    "uuid": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6e",
     "title": "Prague",
     "coordinate": "50.087455, 14.421253",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Czech Republic"
   },
   {
+    "uuid": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7f",
     "title": "Repulse Bay",
     "coordinate": "22.23715, 114.19712",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Hong Kong"
   },
   {
+    "uuid": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8a",
     "title": "Rīga",
     "coordinate": "56.949391, 24.105187",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Latvia"
   },
   {
+    "uuid": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9b",
     "title": "Rotterdam",
     "coordinate": "51.924438, 4.4777661",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Netherlands"
   },
   {
+    "uuid": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0c",
     "title": "Sagarejo",
     "coordinate": "41.731375, 45.331548",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Georgia"
   },
   {
+    "uuid": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1d",
     "title": "Saint Charles",
     "coordinate": "41.913987, -88.312815",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2e",
     "title": "Saint Paul's Bay",
     "coordinate": "35.948085, 14.397392",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Malta"
   },
   {
+    "uuid": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3f",
     "title": "Saint Petersburg",
     "coordinate": "59.938734, 30.31624",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4a",
     "title": "Saint-Martin-de-Brômes",
     "coordinate": "43.769538, 5.9462148",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5c",
     "title": "Saint-Michel-l'Observatoire",
     "coordinate": "43.90945, 5.7172185",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6d",
     "title": "Salzburg",
     "coordinate": "47.798127, 13.046459",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Austria"
   },
   {
+    "uuid": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7e",
     "title": "Sandhamn",
     "coordinate": "59.28787, 18.91083",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8f",
     "title": "Sault",
     "coordinate": "44.091784, 5.4087082",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9a",
     "title": "Schengen",
     "coordinate": "49.471601, 6.3659001",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Luxembourg"
   },
   {
+    "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0b",
     "title": "Sergiev Posad",
     "coordinate": "56.315363, 38.135803",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1c",
     "title": "Sevastopol",
     "coordinate": "44.60543, 33.522102",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2d",
     "title": "Sigtuna",
     "coordinate": "59.616526, 17.723632",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3e",
     "title": "Simferopol",
     "coordinate": "44.952154, 34.102489",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4f",
     "title": "Sochi",
     "coordinate": "43.585478, 39.723113",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5a",
     "title": "Sochumi",
     "coordinate": "43.003349, 41.019285",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Abkhazia"
   },
   {
+    "uuid": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6b",
     "title": "Stavanger",
     "coordinate": "58.969962, 5.7317955",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Norway"
   },
   {
+    "uuid": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7c",
     "title": "Stockholm",
     "coordinate": "59.325127, 18.071074",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8d",
     "title": "Strasbourg",
     "coordinate": "48.584604, 7.7507051",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9e",
     "title": "Suzdal",
     "coordinate": "56.419401, 40.448768",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0f",
     "title": "Swemeh",
     "coordinate": "31.76594, 35.59837",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Jordan"
   },
   {
+    "uuid": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1a",
     "title": "Szczecin",
     "coordinate": "53.430188, 14.550943",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Poland"
   },
   {
+    "uuid": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2b",
     "title": "Tbilisi",
     "coordinate": "41.693444, 44.801458",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Georgia"
   },
   {
+    "uuid": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3c",
     "title": "Tong Fuk",
     "coordinate": "22.22826, 113.93193",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Hong Kong"
   },
   {
+    "uuid": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4d",
     "title": "Torriggia",
     "coordinate": "45.891764, 9.1433195",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5e",
     "title": "Torzhok",
     "coordinate": "57.040793, 34.97337",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6f",
     "title": "Trento",
     "coordinate": "46.066432, 11.12574",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7a",
     "title": "Trets",
     "coordinate": "43.446907, 5.685142",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8b",
     "title": "Treviso",
     "coordinate": "45.665845, 12.24553",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9c",
     "title": "Trondheim",
     "coordinate": "63.430567, 10.395192",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Norway"
   },
   {
+    "uuid": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0d",
     "title": "Trosa",
     "coordinate": "58.896703, 17.547807",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1e",
     "title": "Tsim Sha Sui",
     "coordinate": "22.29881, 114.17217",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Hong Kong"
   },
   {
+    "uuid": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2f",
     "title": "Tsitsamuri",
     "coordinate": "41.86145, 44.733",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Georgia"
   },
   {
+    "uuid": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3a",
     "title": "Tskhinvali",
     "coordinate": "42.225137, 43.970831",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "South Ossetia"
   },
   {
+    "uuid": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4b",
     "title": "Tula",
     "coordinate": "54.193044, 37.617557",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5g",
     "title": "Turku",
     "coordinate": "60.451752, 22.267037",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Finland"
   },
   {
+    "uuid": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
     "title": "Turnov",
     "coordinate": "50.587396, 15.157422",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Czech Republic"
   },
   {
+    "uuid": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
     "title": "Turochak",
     "coordinate": "52.259954, 87.117537",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g",
     "title": "Tver",
     "coordinate": "56.858679, 35.920813",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9g",
     "title": "Umeå",
     "coordinate": "63.844466, 20.321813",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0g",
     "title": "Uppsala",
     "coordinate": "59.858603, 17.638745",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1g",
     "title": "Utrecht",
     "coordinate": "52.094976, 5.1096945",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Netherlands"
   },
   {
+    "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2g",
     "title": "Vaasa",
     "coordinate": "63.095763, 21.615925",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Finland"
   },
   {
+    "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
     "title": "València",
     "coordinate": "39.469715, -0.37634628",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Spain"
   },
   {
+    "uuid": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4g",
     "title": "Valensole",
     "coordinate": "43.837925, 5.9839803",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "France"
   },
   {
+    "uuid": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5g",
     "title": "Valletta",
     "coordinate": "35.898979, 14.513692",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Malta"
   },
   {
+    "uuid": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6g",
     "title": "Vantaa",
     "coordinate": "60.309197, 25.03645",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Finland"
   },
   {
+    "uuid": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7g",
     "title": "Västerås",
     "coordinate": "59.611099, 16.546378",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8e",
     "title": "Vaxholm",
     "coordinate": "59.40405, 18.331313",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9f",
     "title": "Veliky Novgorod",
     "coordinate": "58.520993, 31.275784",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0g",
     "title": "Velsk",
     "coordinate": "61.06376, 42.0991",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1g",
     "title": "Venice",
     "coordinate": "45.437178, 12.33458",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2g",
     "title": "Verona",
     "coordinate": "45.438503, 10.992402",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Italy"
   },
   {
+    "uuid": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3g",
     "title": "Victoria",
     "coordinate": "36.042874, 14.239849",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Malta"
   },
   {
+    "uuid": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4e",
     "title": "Villach",
     "coordinate": "46.616716, 13.850006",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Austria"
   },
   {
+    "uuid": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5f",
     "title": "Visby",
     "coordinate": "57.637929, 18.297968",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Sweden"
   },
   {
+    "uuid": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6g",
     "title": "Vladimir",
     "coordinate": "56.128899, 40.407527",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7g",
     "title": "Vydropuzhsk",
     "coordinate": "57.36696, 34.8415",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8g",
     "title": "Vyshny Volochyok",
     "coordinate": "57.58901, 34.56026",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9g",
     "title": "Wadi Musa",
     "coordinate": "30.32164, 35.480072",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Jordan"
   },
   {
+    "uuid": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0e",
     "title": "Wadi Rum",
     "coordinate": "29.57429, 35.42103",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Jordan"
   },
   {
+    "uuid": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1f",
     "title": "Warszawa",
     "coordinate": "52.23197, 21.006742",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Poland"
   },
   {
+    "uuid": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2g",
     "title": "Wien",
     "coordinate": "48.208363, 16.372485",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Austria"
   },
   {
+    "uuid": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3g",
     "title": "Wildrose",
     "coordinate": "41.92752, -88.33229",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4g",
     "title": "Yalta",
     "coordinate": "44.497076, 34.158708",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5h",
     "title": "Yaylyu",
     "coordinate": "51.76944, 87.60277",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6g",
     "title": "Yekaterinburg",
     "coordinate": "56.839107, 60.608254",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7g",
     "title": "Zaporizhzhia",
     "coordinate": "47.850798, 35.118296",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Ukraine"
   },
   {
+    "uuid": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8h",
     "title": "Zarechny",
     "coordinate": "56.814967, 61.320605",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9h",
     "title": "Zelenograd",
     "coordinate": "55.99643, 37.198531",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Russia"
   },
   {
+    "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0h",
     "title": "Zürich",
     "coordinate": "47.374455, 8.5410343",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Switzerland"
   },
   {
+    "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1h",
     "title": "Strečno",
     "coordinate": "49.18942, 18.86491",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Slovakia"
   },
   {
+    "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2h",
     "title": "Katowice",
     "coordinate": "50.25874, 19.02015",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Poland"
   },
   {
+    "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3g",
     "title": "Znojme",
     "coordinate": "48.85522, 16.04840",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Czech Republic"
   },
   {
+    "uuid": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4h",
     "title": "Budapest",
     "coordinate": "47.49540, 19.05641",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Hungary"
   },
   {
+    "uuid": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5h",
     "title": "Vancouver",
     "coordinate": "49.2827, -123.1207",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Canada"
   },
   {
+    "uuid": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6h",
     "title": "Squamish",
     "coordinate": "49.7016, -123.1558",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Canada"
   },
   {
+    "uuid": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7h",
     "title": "Whistler",
     "coordinate": "50.1162, -122.9535",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Canada"
   },
   {
+    "uuid": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8f",
     "title": "Palm Springs",
     "coordinate": "33.8303, -116.5453",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9g",
     "title": "Phoenix",
     "coordinate": "33.4484, -112.0740",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0h",
     "title": "Dallas",
     "coordinate": "32.7767, -96.7970",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "United States"
   },
   {
+    "uuid": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1h",
     "title": "Kamloops",
     "coordinate": "50.6745, -120.3273",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Canada"
   },
   {
+    "uuid": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2h",
     "title": "Kelowna",
     "coordinate": "49.8880, -119.4960",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Canada"
   },
   {
+    "uuid": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3h",
     "title": "Larnaca",
     "coordinate": "34.9182, 33.6201",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Cyprus"
   },
   {
+    "uuid": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4f",
     "title": "Athens",
     "coordinate": "37.9838, 23.7275",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Greece"
   },
   {
+    "uuid": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5g",
     "title": "Vanadzor",
     "coordinate": "40.8074, 44.4970",
     "color": "#192c55",
-    "glyphText": ""
+    "glyphText": "",
+    "guide": "",
+    "country": "Armenia"
   }
 ]
