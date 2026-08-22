@@ -3584,7 +3584,7 @@
   "guides" : [
     {
       "body" : "",
-      "cityId" : "20B49395-D4AC-47E5-8EDB-2F9E29253A56",
+      "cityId" : "#",
       "countryId" : "785DD235-A19A-45C5-8667-F6AB324C09B2",
       "createdAt" : "2026-08-12T18:33:47.167Z",
       "foodSpots" : [
